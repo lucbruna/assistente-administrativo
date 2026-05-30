@@ -1,0 +1,8 @@
+{
+  "name": "Assistente de Escritório",
+  "description": "Assistente completo com IA para redação, relatórios, atas, planilhas interativas, assistente de voz e exportação de PDF offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
